@@ -1,0 +1,17 @@
+{
+  "id": "default-field-value",
+  "name": "Default value for a field",
+  "srcdoc": "extension.html",
+  "fieldTypes": ["Symbol"],
+  "parameters": {
+    "instance": [
+      {
+        "id": "defaultColor",
+        "name": "Default value",
+        "description": "Set which color is the default color",
+        "type": "Symbol",
+        "required": true
+      }
+    ]
+  }
+}
